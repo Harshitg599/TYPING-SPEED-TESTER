@@ -186,14 +186,14 @@ const FooterMenu = ({
                   {GITHUB_TOOLTIP_TITLE}
                     <Link
                       margin="inherit"
-                      href="https://github.com/Raghavarora27/Touch-Typing"
+                      href="https://github.com/Harshitg599/TYPING-SPEED-TESTER"
                       target="_blank"
                     >
                       {}
                     </Link>
                     <Link
                       margin="inherit"
-                      href="https://github.com/Raghavarora27/Touch-Typing/"
+                      href="https://github.com/Harshitg599/TYPING-SPEED-TESTER/"
                       target="_blank"
                     >
                       {GITHUB_REPO_LINK}
@@ -203,7 +203,7 @@ const FooterMenu = ({
               placement="top-start"
             >
               <IconButton
-                href="https://github.com/Raghavarora27/Touch-Typing/"
+                href="https://github.com/Harshitg599/TYPING-SPEED-TESTER/"
                 color="inherit"
                 target="_blank"
               >
@@ -237,7 +237,7 @@ const FooterMenu = ({
         {isBottomLogoEnabled && (
           <Box display="block" flexDirection="row" className="bottom-info">
             <IconButton
-              href="https://github.com/Raghavarora27/Touch-Typing/"
+              href="https://github.com/Harshitg599/TYPING-SPEED-TESTER/"
               color="inherit"
               target="_blank"
             >
