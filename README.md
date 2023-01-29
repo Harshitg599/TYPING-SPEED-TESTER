@@ -1,1 +1,1 @@
-# Touch Typing
+# TYPING SPEED TESTER
