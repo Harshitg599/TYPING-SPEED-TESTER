@@ -242,7 +242,7 @@ const FooterMenu = ({
               target="_blank"
             >
               <span>
-                Touch Typing <KeyboardAltIcon fontSize="small" />
+                Typing Speed Tester <KeyboardAltIcon fontSize="small" />
               </span>
             </IconButton>
           </Box>
